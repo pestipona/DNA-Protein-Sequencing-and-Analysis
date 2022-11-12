@@ -1,0 +1,24 @@
+{
+    "Phe" : [ "TTT", "TTC" ],
+    "Leu" : [ "TTA", "TTG", "CTT", "CTC", "CTA", "CTG" ],
+    "Ser" : [ "TCT", "TCC", "TCA", "TCG", "AGT", "AGC" ],
+    "Tyr" : [ "TAT", "TAC" ],
+    "Cys" : [ "TGT", "TGC" ],
+    "Trp" : [ "TGG" ],
+    "Pro" : [ "CCT", "CCC", "CCA", "CCG" ],
+    "His" : [ "CAT", "CAC" ],
+    "Gln" : [ "CAA", "CAG" ],
+    "Arg" : [ "CGT", "CGC", "CGA", "CGG", "AGA", "AGG" ],
+    "Ile" : [ "ATT", "ATC" ],
+    "Met" : [ "ATA", "ATG" ],
+    "Thr" : [ "ACT", "ACC", "ACA", "ACG" ],
+    "Asn" : [ "AAT", "AAC" ],
+    "Lys" : [ "AAA", "AAG" ],
+    "Val" : [ "GTT", "GTC", "GTA", "GTG" ],
+    "Ala" : [ "GCT", "GCC", "GCA", "GCG" ],
+    "Asp" : [ "GAT", "GAC" ],
+    "Glu" : [ "GAA", "GAG" ],
+    "Gly" : [ "GGT", "GGC", "GGA", "GGG" ],
+
+    "Stop" : [ "TAA", "TAG", "TGA" ]
+}

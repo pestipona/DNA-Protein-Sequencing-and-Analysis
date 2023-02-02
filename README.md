@@ -1,4 +1,4 @@
-# DNA-Protein-Sequencing-and-Analysis
+# DNA Protein Sequencing and Analysis
 
 ## I. Introduction:
 In this project, you will see how python is used to perform data analysis in processing and analyzing DNA sequences for the p53 gene, which is used to suppress cancer in organisms. The p53 genes in humans and elephants will be compared, to identify what they have in common and how they are different.
